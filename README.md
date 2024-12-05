@@ -70,7 +70,13 @@
 <br>
 
 ## Objetivo General
+Desarrollar un módulo de membresías dentro del sistema web “GYM BULL’S”, que permita gestionar inscripciones, renovación, control de pagos y beneficios de los socios, en Xicotepec de Juárez.
 ## Objetivos Específicos
+1.	Implementar un sistema que permita a los usuarios registrarse y renovar su membresía de forma automática
+2.	Crear un sistema que permita configurar diferentes planes de membresía (mensuales, anuales, premium, etc.), con distintos precios, beneficios y restricciones.
+3.	Integrar un sistema que registre los pagos de los socios, genere recibos y mantenga un historial de facturación accesible tanto para el usuario como para el personal administrativo.
+4.	Crear una interfaz que permita al personal del gimnasio consultar rápidamente los datos de los socios, sus planes de membresía activos, y su historial de pagos.
+5.	Desarrollar un portal donde los socios puedan ver y gestionar su cuenta, consultar sus pagos, renovar membresías y acceder a ofertas o beneficios exclusivos.
 
 ## Requerimientos Funcionales
 
