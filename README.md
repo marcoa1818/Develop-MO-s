@@ -73,10 +73,10 @@
 ## Objetivos Específicos
 
 ## Requerimientos Funcionales
-•	El sistema debe incluir validaciones para el CRUD de la información de los socios, asegurando que los formularios de inscripción y renovación sean completos y correctos.
-•	El sistema debe mostrar un calendario con las fechas de renovación de membresías, así como las fechas de expiración de beneficios para facilitar el seguimiento de los socios.
-•	Los socios deben poder realizar pagos en línea por la inscripción, renovación de membresías, clases adicionales y otros servicios, garantizando un procesamiento de pagos seguro.
-•	El sistema debe proporcionar planes de membresía personalizados que se adapten a las necesidades y objetivos de cada socio, incluyendo beneficios específicos según su perfil.
+1. El sistema debe incluir validaciones para el CRUD de la información de los socios, asegurando que los formularios de inscripción y renovación sean completos y correctos.
+2. El sistema debe mostrar un calendario con las fechas de renovación de membresías, así como las fechas de expiración de beneficios para facilitar el seguimiento de los socios.
+3. Los socios deben poder realizar pagos en línea por la inscripción, renovación de membresías, clases adicionales y otros servicios, garantizando un procesamiento de pagos seguro.
+4. El sistema debe proporcionar planes de membresía personalizados que se adapten a las necesidades y objetivos de cada socio, incluyendo beneficios específicos según su perfil.
 •	Los nuevos socios deben poder registrarse con su información personal de forma clara e intuitiva, asegurando un proceso de inscripción fácil.
 •	El sistema debe ofrecer un soporte al cliente en línea donde los socios puedan enviar consultas, reportar problemas o solicitar asistencia relacionada con sus membresías.
 •	El sistema debe ofrecer múltiples opciones de pago para la renovación de membresías y otros servicios, incluyendo tarjetas de crédito, débito y métodos de pago en línea como PayPal.
