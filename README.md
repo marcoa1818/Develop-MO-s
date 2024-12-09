@@ -30,7 +30,7 @@
   
 | LOGO DEl SITIO  | LOGO DE LA EMPRESA | 
 |:------------- |:---------------:| 
-<img src="Img/LOGO SITIO.png" width="400" height="400">|<img src="Img/LOGO DEBWEB.png" width="400" height="400">|
+<img src="" width="400" height="400">|<img src="" width="400" height="400">|
   
 </div>
 
@@ -43,7 +43,7 @@
 
 
 <p align="center">
-  <img src="Img/ORGANIGRAMA.png?raw=true" alt="Organigrama de equipo">
+  <img src="" alt="Organigrama de equipo">
 </p>
 
 ## Integrantes 
@@ -64,7 +64,7 @@
 
 ## Propuesta de Plan de Trabajo       
 <p align="center">
-  <img src="Img/PLAN DE TRABAJO-TRAINING.png?raw=true" alt="Organigrama de equipo">
+  <img src="" alt="Organigrama de equipo">
 </p>
 
 <br>
