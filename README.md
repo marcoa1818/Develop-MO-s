@@ -30,7 +30,7 @@
   
 | LOGO DEl SITIO  | LOGO DE LA EMPRESA | 
 |:------------- |:---------------:| 
-<img src="Img/LOGO SITIO.png" width="400" height="400">|<img src="Img/LOGO DEBWEB.png" width="400" height="400">|
+<img src="" width="400" height="400">|<img src="" width="400" height="400">|
   
 </div>
 
@@ -43,7 +43,7 @@
 
 
 <p align="center">
-  <img src="Img/ORGANIGRAMA.png?raw=true" alt="Organigrama de equipo">
+  <img src="" alt="Organigrama de equipo">
 </p>
 
 ## Integrantes 
@@ -64,7 +64,7 @@
 
 ## Propuesta de Plan de Trabajo       
 <p align="center">
-  <img src="Img/PLAN DE TRABAJO-TRAINING.png?raw=true" alt="Organigrama de equipo">
+  <img src="" alt="Organigrama de equipo">
 </p>
 
 <br>
@@ -103,37 +103,57 @@ Motivo por el cual surge la idea de integrar un sitio web donde se maneje la inf
 
 ## MOCKUPS
 
+## Inicio:
+<p align="center">
+<img src="https://github.com/user-attachments/assets/350875f7-af62-484d-8f0d-7afe19b94c4e" alt="Diseño"> 
+</p>
+
+## SplashScreen:
+<p align="center">
+<img src="https://github.com/user-attachments/assets/362410a4-2f43-4cf3-a353-bdfe8c2a721a" alt="Diseño"> 
+</p>
+
 ## Inicio de Sesión:
 <p align="center">
-<img src="Img/MKPS1.png?raw=true" alt="Diseño"> 
+<img src="https://github.com/user-attachments/assets/da9d1a4f-ce84-468e-873c-a694712394f1" alt="Diseño"> 
 </p>
 
-## Rutinas (Create):
+## Registrarse:
 <p align="center">
-<img src="Img/MKPS2.png?raw=true" alt="Diseño">
+<img src="https://github.com/user-attachments/assets/6e1eab5a-f75f-4d38-806d-294dadbce0f9" alt="Diseño"> 
 </p>
 
-## Rutinas (Read):
+## Cambiar Contraseña:
 <p align="center">
-<img src="Img/MKPS3.png?raw=true" alt="Diseño">
+<img src="https://github.com/user-attachments/assets/ac61b41c-2b3b-4455-9486-77bd66eff747" alt="Diseño"> 
 </p>
 
-## Rutinas (Update):
+## Inicio:
 <p align="center">
-<img src="Img/MKPS4.png?raw=true" alt="Diseño">
+<img src="https://github.com/user-attachments/assets/119d6fe1-76ef-437c-87ea-978278b1f4d0" alt="Diseño"> 
 </p>
 
-## Rutinas (Delete):
+## Crear:
 <p align="center">
-<img src="Img/MKPS5.png?raw=true" alt="Diseño">
+<img src="https://github.com/user-attachments/assets/d1560452-5076-43c0-b35e-b892b6a752f8" alt="Diseño"> 
 </p>
 
-## Programa Saludable (Tablas):
+## Leer:
 <p align="center">
-<img src="Img/MKPS6.png?raw=true" alt="Diseño">
+<img src="https://github.com/user-attachments/assets/11a700dc-62eb-46e8-85ff-a01f0c6e3269" alt="Diseño"> 
 </p>
 
-## Dashboard de seguimiento:
+## Actualizar:
 <p align="center">
-<img src="Img/MKPS7.png?raw=true" alt="Diseño">
+<img src="https://github.com/user-attachments/assets/a142ef20-b799-4399-b839-f0b9ac536070" alt="Diseño"> 
+</p>
+
+## Eliminar:
+<p align="center">
+<img src="https://github.com/user-attachments/assets/9165b78a-09c9-4588-8f58-409a32865633" alt="Diseño"> 
+</p>
+
+## Graficas:
+<p align="center">
+<img src="https://github.com/user-attachments/assets/38f47be1-2e55-43cf-b3b4-83172a7894ff" alt="Diseño"> 
 </p>
