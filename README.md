@@ -70,7 +70,17 @@
 <br>
 
 ## Objetivo General
+Desarrollar un módulo de membresías dentro del sistema web “GYM BULL’S”, que permita gestionar inscripciones, renovación, control de pagos y beneficios de los socios, en Xicotepec de Juárez.
 ## Objetivos Específicos
+1.	Implementar un sistema que permita a los usuarios registrarse y renovar su membresía de forma automática
+2.	Crear un sistema que permita configurar diferentes planes de membresía (mensuales, anuales, premium, etc.), con distintos precios, beneficios y restricciones.
+3.	Integrar un sistema que registre los pagos de los socios, genere recibos y mantenga un historial de facturación accesible tanto para el usuario como para el personal administrativo.
+4.	Crear una interfaz que permita al personal del gimnasio consultar rápidamente los datos de los socios, sus planes de membresía activos, y su historial de pagos.
+5.	Desarrollar un portal donde los socios puedan ver y gestionar su cuenta, consultar sus pagos, renovar membresías y acceder a ofertas o beneficios exclusivos.
+
+## Planteamiento del problema
+En un mercado de fitness y bienestar, los gimnasios deben adaptarse a las necesidades cambiantes de los usuarios pertenecientes al gimnasio. La falta de un sitio web que centralice la información sobre membresías, sucursales, dietas, entrenamientos y la venta de productos puede limitar el crecimiento y la satisfacción del cliente, además del alcance que se puede llegar a tener simplemente de manera presencial. Para esto mismo es que se tiene pensado desarrollar un sitio web integral que sirva como un punto de acceso único para que los usuarios consulten información sobre membresías además de otra información como localizaciones de sucursales, planes de dieta y entrenamiento, así como para realizar compras de productos relacionados con el fitness. Este sitio web no solo debe mejoraría la experiencia del usuario, sino también aumentar la eficiencia operativa del gimnasio y sus ingresos de una manera exponencial.
+Motivo por el cual surge la idea de integrar un sitio web donde se maneje la información de membresías, como precio de estas, lapso, beneficios, permite que se visualice más ampliamente el gimnasio y se obtengan clientes de manera más rápida, además de que permite un mejor manejo de administración tanto como de los miembros como el del administrador encargado del gimnasio.
 
 ## Requerimientos Funcionales
 1. El sistema debe incluir validaciones para el CRUD de la información de los socios, asegurando que los formularios de inscripción y renovación sean completos y correctos.
