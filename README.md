@@ -41,10 +41,14 @@
 ## Organigrama del equipo
 <br>
 
+<div align="center">
+  
+| LOGO DEl SITIO  | 
+|:------------- |
+<img src="https://github.com/user-attachments/assets/logo4K.png" width="400" height="400">
+  
+</div>
 
-<p align="center">
-  ![organigrama-membresias](https://github.com/user-attachments/assets/3c7ea85b-0fbc-4a8b-9a19-facfd377a9fa)
-</p>
 
 ## Integrantes 
 <br>
