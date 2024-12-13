@@ -28,9 +28,9 @@
 
 <div align="center">
   
-| LOGO DEl SITIO  | LOGO DE LA EMPRESA | 
-|:------------- |:---------------:| 
-<img src="" width="400" height="400">|<img src="" width="400" height="400">|
+| LOGO DEl SITIO  | 
+|:------------- |
+<img src="https://github.com/user-attachments/assets/logo4K.png" width="400" height="400">
   
 </div>
 
@@ -40,15 +40,6 @@
 
 ## Organigrama del equipo
 <br>
-
-<div align="center">
-  
-| LOGO DEl SITIO  | 
-|:------------- |
-<img src="https://github.com/user-attachments/assets/logo4K.png" width="400" height="400">
-  
-</div>
-
 
 ## Integrantes 
 <br>
