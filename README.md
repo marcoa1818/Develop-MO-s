@@ -118,60 +118,80 @@ El frontend del sistema de gestión de membresías del gimnasio GYM BULL'S fue d
 La base de datos del sistema de gestión de membresías del gimnasio GYM BULL'S constituye el núcleo de la infraestructura tecnológica, diseñada para almacenar, gestionar y recuperar información crítica del sistema. Fue desarrollada utilizando MySQL, un sistema de gestión de bases de datos relacionales, y gestionada con herramientas como SQL Workbench y Aiven, lo que asegura escalabilidad, seguridad y alto rendimiento.
 
 
+## Boceto
+<p align="center">
+<img src="https://github.com/user-attachments/assets/dad1473f-d4d7-4ec1-a382-360e8669ea34" alt="Diseño"> 
+</p>
 
-## MOCKUPS
+## Wireframe
+<p align="center">
+<img src="https://github.com/user-attachments/assets/904f4933-4919-426c-8bb9-c4b171a21608" alt="Diseño"> 
+</p>
+<p align="center">
+<img src="https://github.com/user-attachments/assets/e688a327-a37e-4ebd-ae4e-b878bf817773" alt="Diseño"> 
+</p>
+<p align="center">
+<img src="https://github.com/user-attachments/assets/9aaf2555-ef7c-4cad-acd3-6ab216ebb9e1" alt="Diseño"> 
+</p>
+
+## Prototipo
 
 ## Inicio:
 <p align="center">
-<img src="https://github.com/user-attachments/assets/350875f7-af62-484d-8f0d-7afe19b94c4e" alt="Diseño"> 
+<img src="https://github.com/user-attachments/assets/fa46dcfd-1d24-48a6-ad45-533f7a39b481" alt="Diseño"> 
 </p>
 
 ## SplashScreen:
 <p align="center">
-<img src="https://github.com/user-attachments/assets/362410a4-2f43-4cf3-a353-bdfe8c2a721a" alt="Diseño"> 
+<img src="https://github.com/user-attachments/assets/29626aba-796f-4048-b9e5-709cd2922572" alt="Diseño"> 
 </p>
 
 ## Inicio de Sesión:
 <p align="center">
-<img src="https://github.com/user-attachments/assets/da9d1a4f-ce84-468e-873c-a694712394f1" alt="Diseño"> 
+<img src="https://github.com/user-attachments/assets/38af5ffd-7b48-4a0c-959e-a53e4862446e" alt="Diseño"> 
 </p>
 
 ## Registrarse:
 <p align="center">
-<img src="https://github.com/user-attachments/assets/6e1eab5a-f75f-4d38-806d-294dadbce0f9" alt="Diseño"> 
+<img src="https://github.com/user-attachments/assets/80cf4277-f33b-4984-9ebf-306d3bc90eb6" alt="Diseño"> 
 </p>
 
 ## Cambiar Contraseña:
 <p align="center">
-<img src="https://github.com/user-attachments/assets/ac61b41c-2b3b-4455-9486-77bd66eff747" alt="Diseño"> 
+<img src="https://github.com/user-attachments/assets/2dd2bc5b-489c-411f-9ef3-f48228237b63" alt="Diseño"> 
 </p>
 
-## Inicio:
+## Home:
 <p align="center">
-<img src="https://github.com/user-attachments/assets/119d6fe1-76ef-437c-87ea-978278b1f4d0" alt="Diseño"> 
+<img src="https://github.com/user-attachments/assets/9028d853-1f68-4b6a-b68b-02b0a8c21988" alt="Diseño"> 
 </p>
 
 ## Crear:
 <p align="center">
-<img src="https://github.com/user-attachments/assets/d1560452-5076-43c0-b35e-b892b6a752f8" alt="Diseño"> 
+<img src="https://github.com/user-attachments/assets/606c274a-a635-474e-9796-e5085969925e" alt="Diseño"> 
 </p>
 
 ## Leer:
 <p align="center">
-<img src="https://github.com/user-attachments/assets/11a700dc-62eb-46e8-85ff-a01f0c6e3269" alt="Diseño"> 
+<img src="https://github.com/user-attachments/assets/0e447a4b-aa42-4d57-8dc3-c7263a1091b6" alt="Diseño"> 
 </p>
 
 ## Actualizar:
 <p align="center">
-<img src="https://github.com/user-attachments/assets/a142ef20-b799-4399-b839-f0b9ac536070" alt="Diseño"> 
+<img src="https://github.com/user-attachments/assets/56ae07c0-b229-4689-bee6-fa968f791be1" alt="Diseño"> 
 </p>
 
 ## Eliminar:
 <p align="center">
-<img src="https://github.com/user-attachments/assets/9165b78a-09c9-4588-8f58-409a32865633" alt="Diseño"> 
+<img src="https://github.com/user-attachments/assets/18e20039-30d7-48da-a486-b4f7a28e1607" alt="Diseño"> 
+</p>
+
+## Logout:
+<p align="center">
+<img src="https://github.com/user-attachments/assets/7cc6bae8-4004-4fab-b301-5d02ce397c8b" alt="Diseño"> 
 </p>
 
 ## Graficas:
 <p align="center">
-<img src="https://github.com/user-attachments/assets/38f47be1-2e55-43cf-b3b4-83172a7894ff" alt="Diseño"> 
+<img src="https://github.com/user-attachments/assets/a4a42a24-8a20-4b46-9f00-9cde113f4f62" alt="Diseño"> 
 </p>

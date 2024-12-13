@@ -22,7 +22,7 @@ const LoginScreen = ({ navigation }) => {
         placeholder="****************"
         secureTextEntry
       />
-      <TouchableOpacity>
+      <TouchableOpacity onPress={() => navigation.navigate('ResetPass')}>
         <Text style={styles.forgotPassword}>Forgot password?</Text>
       </TouchableOpacity>
       <TouchableOpacity style={styles.signInButton} onPress={() => navigation.navigate('Home')} // Navegar a Home
@@ -32,7 +32,9 @@ const LoginScreen = ({ navigation }) => {
 
       <View style={styles.dividerContainer}>
         <View style={styles.divider} />
-        <Text style={styles.dividerText}>Or</Text>
+        <TouchableOpacity onPress={() => navigation.navigate('Register')}>
+          <Text style={styles.dividerText}>Or register</Text>
+        </TouchableOpacity>
         <View style={styles.divider} />
       </View>
 
