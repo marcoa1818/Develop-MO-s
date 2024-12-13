@@ -40,11 +40,7 @@
 
 ## Organigrama del equipo
 <br>
-
-
-<p align="center">
-  <img src="" alt="Organigrama de equipo">
-</p>
+![organigrama-membresias](https://github.com/user-attachments/assets/9724aff5-712b-48f3-a62d-a086761699fe)
 
 ## Integrantes 
 <br>
