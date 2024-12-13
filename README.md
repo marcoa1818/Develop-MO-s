@@ -90,60 +90,80 @@
 
 ## Reglas de Negocio 
 
+## Boceto
+<p align="center">
+<img src="https://github.com/user-attachments/assets/dad1473f-d4d7-4ec1-a382-360e8669ea34" alt="Diseño"> 
+</p>
 
-## MOCKUPS
+## Wireframe
+<p align="center">
+<img src="https://github.com/user-attachments/assets/904f4933-4919-426c-8bb9-c4b171a21608" alt="Diseño"> 
+</p>
+<p align="center">
+<img src="https://github.com/user-attachments/assets/e688a327-a37e-4ebd-ae4e-b878bf817773" alt="Diseño"> 
+</p>
+<p align="center">
+<img src="https://github.com/user-attachments/assets/9aaf2555-ef7c-4cad-acd3-6ab216ebb9e1" alt="Diseño"> 
+</p>
+
+## Prototipo
 
 ## Inicio:
 <p align="center">
-<img src="https://github.com/user-attachments/assets/350875f7-af62-484d-8f0d-7afe19b94c4e" alt="Diseño"> 
+<img src="" alt="Diseño"> 
 </p>
 
 ## SplashScreen:
 <p align="center">
-<img src="https://github.com/user-attachments/assets/362410a4-2f43-4cf3-a353-bdfe8c2a721a" alt="Diseño"> 
+<img src="" alt="Diseño"> 
 </p>
 
 ## Inicio de Sesión:
 <p align="center">
-<img src="https://github.com/user-attachments/assets/da9d1a4f-ce84-468e-873c-a694712394f1" alt="Diseño"> 
+<img src="" alt="Diseño"> 
 </p>
 
 ## Registrarse:
 <p align="center">
-<img src="https://github.com/user-attachments/assets/6e1eab5a-f75f-4d38-806d-294dadbce0f9" alt="Diseño"> 
+<img src="" alt="Diseño"> 
 </p>
 
 ## Cambiar Contraseña:
 <p align="center">
-<img src="https://github.com/user-attachments/assets/ac61b41c-2b3b-4455-9486-77bd66eff747" alt="Diseño"> 
+<img src="" alt="Diseño"> 
 </p>
 
 ## Inicio:
 <p align="center">
-<img src="https://github.com/user-attachments/assets/119d6fe1-76ef-437c-87ea-978278b1f4d0" alt="Diseño"> 
+<img src="" alt="Diseño"> 
 </p>
 
 ## Crear:
 <p align="center">
-<img src="https://github.com/user-attachments/assets/d1560452-5076-43c0-b35e-b892b6a752f8" alt="Diseño"> 
+<img src="" alt="Diseño"> 
 </p>
 
 ## Leer:
 <p align="center">
-<img src="https://github.com/user-attachments/assets/11a700dc-62eb-46e8-85ff-a01f0c6e3269" alt="Diseño"> 
+<img src="" alt="Diseño"> 
 </p>
 
 ## Actualizar:
 <p align="center">
-<img src="https://github.com/user-attachments/assets/a142ef20-b799-4399-b839-f0b9ac536070" alt="Diseño"> 
+<img src="" alt="Diseño"> 
 </p>
 
 ## Eliminar:
 <p align="center">
-<img src="https://github.com/user-attachments/assets/9165b78a-09c9-4588-8f58-409a32865633" alt="Diseño"> 
+<img src="" alt="Diseño"> 
 </p>
 
 ## Graficas:
 <p align="center">
-<img src="https://github.com/user-attachments/assets/38f47be1-2e55-43cf-b3b4-83172a7894ff" alt="Diseño"> 
+<img src="" alt="Diseño"> 
+</p>
+
+## Logout:
+<p align="center">
+<img src="" alt="Diseño"> 
 </p>
