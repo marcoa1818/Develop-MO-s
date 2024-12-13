@@ -7,96 +7,80 @@ import {
   TouchableOpacity,
 } from 'react-native';
 
-const ResetPassScreen = ({}) => {
+const ResetPasswordScreen = () => {
   return (
     <View style={styles.container}>
       <Text style={styles.label}>Email</Text>
-      <TextInput
-        style={styles.input}
-        placeholder="usuario@gmail.com"
-        keyboardType="email-address"
-      />
-      <TouchableOpacity style={styles.signInButton} // Navegar a ...
-      >
-        <Text style={styles.signInText}>Register</Text>
-      </TouchableOpacity>
+      <TextInput style={styles.input} placeholder="Value" keyboardType="email-address" />
+
+      <View style={styles.buttonContainer}>
+        <TouchableOpacity style={styles.cancelButton}>
+          <Text style={styles.cancelButtonText}>Cancel</Text>
+        </TouchableOpacity>
+
+        <TouchableOpacity style={styles.resetButton}>
+          <Text style={styles.resetButtonText}>Reset Password</Text>
+        </TouchableOpacity>
+      </View>
     </View>
   );
 };
 
-export default ResetPassScreen;
+export default ResetPasswordScreen;
 
 const styles = StyleSheet.create({
   container: {
     flex: 1,
-    backgroundColor: '#fff',
     justifyContent: 'center',
-    alignItems: 'center',
-    paddingHorizontal: 20,
+    padding: 20,
+    backgroundColor: '#fff',
   },
   label: {
-    alignSelf: 'flex-start',
-    marginBottom: 5,
     fontSize: 14,
-    color: '#000',
+    fontWeight: 'bold',
+    marginBottom: 10,
   },
   input: {
-    width: '100%',
     height: 50,
     borderWidth: 1,
     borderColor: '#ccc',
     borderRadius: 8,
     paddingHorizontal: 15,
-    marginBottom: 15,
-    backgroundColor: '#fff',
-  },
-  forgotPassword: {
-    alignSelf: 'flex-end',
-    color: '#007bff',
-    fontSize: 14,
     marginBottom: 20,
+    backgroundColor: '#f9f9f9',
+    color: '#000',
   },
-  signInButton: {
-    width: '100%',
+  buttonContainer: {
+    flexDirection: 'row',
+    justifyContent: 'space-between',
+  },
+  cancelButton: {
+    flex: 1,
+    marginRight: 10,
     height: 50,
-    backgroundColor: '#000',
-    borderRadius: 8,
     justifyContent: 'center',
     alignItems: 'center',
-    marginBottom: 20,
+    borderRadius: 8,
+    borderWidth: 1,
+    borderColor: '#ccc',
+    backgroundColor: '#fff',
   },
-  signInText: {
-    color: '#fff',
+  cancelButtonText: {
+    color: '#000',
     fontSize: 16,
     fontWeight: 'bold',
   },
-  dividerContainer: {
-    flexDirection: 'row',
-    alignItems: 'center',
-    marginVertical: 20,
-  },
-  divider: {
-    flex: 1,
-    height: 1,
-    backgroundColor: '#ccc',
-  },
-  dividerText: {
-    marginHorizontal: 10,
-    color: '#aaa',
-    fontSize: 14,
-  },
-  socialButton: {
-    width: '100%',
+  resetButton: {
+    flex: 2,
     height: 50,
-    borderWidth: 1,
-    borderColor: '#ccc',
-    borderRadius: 8,
     justifyContent: 'center',
     alignItems: 'center',
-    marginBottom: 10,
+    borderRadius: 8,
+    backgroundColor: '#000',
   },
-  socialText: {
-    color: '#000',
+  resetButtonText: {
+    color: '#fff',
     fontSize: 16,
+    fontWeight: 'bold',
   },
 });
