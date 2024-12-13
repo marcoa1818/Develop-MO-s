@@ -40,18 +40,18 @@
 
 ## Organigrama del equipo
 <br>
-
+https://github.com/marcoa1818/Develop-MO-s/blob/main/organigrama-membresias.png
 ## Integrantes 
 <br>
 
 <div align="center">
 
-| Nombre Completo              | Cargo                   | Empresa    |
-|------------------------------|-------------------------|-------------|
-| Mario Gutierrez Rosales      | Lider/DB Manager        | Develop MO's|           
-  | Marco Antonio Morales Rivera | Documentador/ Backend | Develop MO's|            
-| Oscar Osiel Paredes Castillo | Desarrollador Backend   | Develop MO's|                      
-| Maximiliano Amador Peña      | Desarrollador Frontend  | Develop MO's|
+| Nombre Completo              | Empresa    |
+|------------------------------|-------------|
+| Mario Gutierrez Rosales      | Develop MO's|           
+| Marco Antonio Morales Rivera | Develop MO's|            
+| Oscar Osiel Paredes Castillo | Develop MO's|                      
+| Maximiliano Amador Peña      | Develop MO's|
 
 <br>
 
