@@ -109,14 +109,10 @@ Motivo por el cual surge la idea de integrar un sitio web donde se maneje la inf
 
 # Desarollo
 ## Backend
-El backend del sistema para la gestión de membresías de GYM BULL'S fue desarrollado utilizando FastAPI, un framework moderno y de alto rendimiento basado en Python, ideal para crear aplicaciones web y APIs RESTful. Este enfoque permite la creación de un sistema escalable, seguro y fácil de mantener, cumpliendo con las necesidades del gimnasio tanto en la gestión interna como en la interacción con los socios
+El backend de la aplicación móvil para la gestión de membresías de GYM BULL'S fue desarrollado utilizando FastAPI, un framework moderno y de alto rendimiento basado en Python, ideal para construir APIs RESTful y aplicaciones web. Esta elección garantiza un sistema escalable, seguro y de fácil mantenimiento, diseñado para cubrir eficientemente las necesidades del gimnasio, tanto en la administración interna como en la interacción con los usuarios de la aplicación.
 
 ## Frontend
-El frontend del sistema de gestión de membresías del gimnasio GYM BULL'S fue desarrollado con React.js, un framework de JavaScript ampliamente reconocido por su capacidad para crear interfaces de usuario dinámicas, interactivas y altamente responsivas. Este enfoque permitió desarrollar una experiencia de usuario moderna, intuitiva y eficiente, diseñada para satisfacer las expectativas de los usuarios y facilitar la administración del gimnasio. A continuación, se detalla la estructura, funcionalidades y beneficios del frontend:
-
-## Base de datos
-La base de datos del sistema de gestión de membresías del gimnasio GYM BULL'S constituye el núcleo de la infraestructura tecnológica, diseñada para almacenar, gestionar y recuperar información crítica del sistema. Fue desarrollada utilizando MySQL, un sistema de gestión de bases de datos relacionales, y gestionada con herramientas como SQL Workbench y Aiven, lo que asegura escalabilidad, seguridad y alto rendimiento.
-
+El frontend de la aplicación móvil para la gestión de membresías de GYM BULL'S fue desarrollado utilizando React Native, un framework basado en JavaScript ampliamente reconocido por su capacidad para crear aplicaciones móviles nativas con interfaces dinámicas, interactivas y altamente responsivas. Este enfoque permitió diseñar una experiencia de usuario moderna, intuitiva y eficiente, orientada a satisfacer las expectativas de los usuarios y optimizar la administración del gimnasio desde dispositivos móviles.
 
 ## Boceto
 <p align="center">
