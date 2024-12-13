@@ -14,7 +14,7 @@
 
 <div align="center">
 
-| NOMBRE DE LA EMPRESA         | DeWeb                       | 
+| NOMBRE DE LA EMPRESA         | MO-S                        | 
 |------------------------------|-----------------------------|
 | PROYECTO                     | Sitio Web GYM BULL´S        |           
 | UNIDAD DE NEGOCIO            | Membresias                  |             
@@ -30,7 +30,7 @@
   
 | LOGO DEl SITIO  | 
 |:------------- |
-<img src="https://github.com/user-attachments/assets/logo4K.png" width="400" height="400">
+<img src="Img/logo4K.png" >
   
 </div>
 
@@ -39,11 +39,13 @@
 <br>
 
 ## Organigrama del equipo
-<br>
-https://github.com/marcoa1818/Develop-MO-s/blob/main/organigrama-membresias.png
-## Integrantes 
-<br>
 
+<div align="center">
+<img src="Img/organigrama-membresias.png" >
+<br>
+</div>
+
+## Integrantes 
 <div align="center">
 
 | Nombre Completo              | Empresa    |
@@ -59,7 +61,7 @@ https://github.com/marcoa1818/Develop-MO-s/blob/main/organigrama-membresias.png
 
 ## Propuesta de Plan de Trabajo       
 <p align="center">
-  <img src="" alt="Organigrama de equipo">
+  <img src="Img/PLAN DE TRABAJO-marco.png" alt="Organigrama de equipo">
 </p>
 
 <br>
@@ -93,7 +95,28 @@ Motivo por el cual surge la idea de integrar un sitio web donde se maneje la inf
 
 ## Requerimientos No Funcionales
 
-## Reglas de Negocio 
+1. Cifrado de datos personales y financieros: Toda la información sensible, como datos de pago y datos personales de los socios, deberá ser   encriptada utilizando algoritmos de encriptación robustos
+2.	Autenticación segura: El sistema debe implementar un proceso de autenticación de usuarios mediante métodos seguros como autenticación basada en tokens JWT JSON Web Tokens.
+3. Responsividad: La interfaz debe ser completamente responsiva, adaptándose a diferentes tamaños de pantalla.
+4. Mantenimiento: El sistema debe permitir actualizaciones y mantenimiento con mínima interrupción del servicio, idealmente mediante despliegues continuos sin tiempo de inactividad visible para los usuarios.
+5. Interfaz intuitiva: La interfaz debe ser diseñada para que tanto el personal administrativo como los socios puedan realizar las tareas más frecuentes (como consultar membresías, realizar pagos, etc.).
+6.	Registro de actividades: El sistema debe registrar todas las actividades críticas (registro, renovación de membresías, pagos, modificaciones de planes) en un log que sea accesible para auditoría y monitoreo por parte del equipo administrativo.
+7. Cumplimiento normativo: El procesamiento de pagos deberá cumplir con el estándar PCI DSS (Payment Card Industry Data Security Standard) para garantizar la seguridad en transacciones de tarjetas de crédito y débito.
+8. Tolerancia a fallos: El módulo debe estar diseñado para detectar fallos y continuar operando con funcionalidades críticas, garantizando la mínima interrupción del servicio.
+9. Crecimiento de la base de datos: El sistema debe poder manejar una base de datos creciente sin pérdida de rendimiento, con capacidad para almacenar grandes volúmenes de datos históricos (pagos, renovaciones, inscripciones, etc.).
+10. Procesamiento de pagos en tiempo real: El sistema debe procesar los pagos en línea en tiempo real, con una confirmación de pago instantánea para el usuario.
+11. Feedback inmediato: El sistema debe proporcionar mensajes de feedback claros e inmediatos en caso de errores o acciones exitosas (ejemplo: "Pago realizado con éxito", "Error en el registro de membresía, por favor revisa los campos").
+
+# Desarollo
+## Backend
+El backend del sistema para la gestión de membresías de GYM BULL'S fue desarrollado utilizando FastAPI, un framework moderno y de alto rendimiento basado en Python, ideal para crear aplicaciones web y APIs RESTful. Este enfoque permite la creación de un sistema escalable, seguro y fácil de mantener, cumpliendo con las necesidades del gimnasio tanto en la gestión interna como en la interacción con los socios
+
+## Frontend
+El frontend del sistema de gestión de membresías del gimnasio GYM BULL'S fue desarrollado con React.js, un framework de JavaScript ampliamente reconocido por su capacidad para crear interfaces de usuario dinámicas, interactivas y altamente responsivas. Este enfoque permitió desarrollar una experiencia de usuario moderna, intuitiva y eficiente, diseñada para satisfacer las expectativas de los usuarios y facilitar la administración del gimnasio. A continuación, se detalla la estructura, funcionalidades y beneficios del frontend:
+
+## Base de datos
+La base de datos del sistema de gestión de membresías del gimnasio GYM BULL'S constituye el núcleo de la infraestructura tecnológica, diseñada para almacenar, gestionar y recuperar información crítica del sistema. Fue desarrollada utilizando MySQL, un sistema de gestión de bases de datos relacionales, y gestionada con herramientas como SQL Workbench y Aiven, lo que asegura escalabilidad, seguridad y alto rendimiento.
+
 
 
 ## MOCKUPS
