@@ -110,60 +110,60 @@
 
 ## Inicio:
 <p align="center">
-<img src="" alt="Diseño"> 
+<img src="https://github.com/user-attachments/assets/fa46dcfd-1d24-48a6-ad45-533f7a39b481" alt="Diseño"> 
 </p>
 
 ## SplashScreen:
 <p align="center">
-<img src="" alt="Diseño"> 
+<img src="https://github.com/user-attachments/assets/29626aba-796f-4048-b9e5-709cd2922572" alt="Diseño"> 
 </p>
 
 ## Inicio de Sesión:
 <p align="center">
-<img src="" alt="Diseño"> 
+<img src="https://github.com/user-attachments/assets/38af5ffd-7b48-4a0c-959e-a53e4862446e" alt="Diseño"> 
 </p>
 
 ## Registrarse:
 <p align="center">
-<img src="" alt="Diseño"> 
+<img src="https://github.com/user-attachments/assets/80cf4277-f33b-4984-9ebf-306d3bc90eb6" alt="Diseño"> 
 </p>
 
 ## Cambiar Contraseña:
 <p align="center">
-<img src="" alt="Diseño"> 
+<img src="https://github.com/user-attachments/assets/2dd2bc5b-489c-411f-9ef3-f48228237b63" alt="Diseño"> 
 </p>
 
-## Inicio:
+## Home:
 <p align="center">
-<img src="" alt="Diseño"> 
+<img src="https://github.com/user-attachments/assets/9028d853-1f68-4b6a-b68b-02b0a8c21988" alt="Diseño"> 
 </p>
 
 ## Crear:
 <p align="center">
-<img src="" alt="Diseño"> 
+<img src="https://github.com/user-attachments/assets/606c274a-a635-474e-9796-e5085969925e" alt="Diseño"> 
 </p>
 
 ## Leer:
 <p align="center">
-<img src="" alt="Diseño"> 
+<img src="https://github.com/user-attachments/assets/0e447a4b-aa42-4d57-8dc3-c7263a1091b6" alt="Diseño"> 
 </p>
 
 ## Actualizar:
 <p align="center">
-<img src="" alt="Diseño"> 
+<img src="https://github.com/user-attachments/assets/56ae07c0-b229-4689-bee6-fa968f791be1" alt="Diseño"> 
 </p>
 
 ## Eliminar:
 <p align="center">
-<img src="" alt="Diseño"> 
-</p>
-
-## Graficas:
-<p align="center">
-<img src="" alt="Diseño"> 
+<img src="https://github.com/user-attachments/assets/18e20039-30d7-48da-a486-b4f7a28e1607" alt="Diseño"> 
 </p>
 
 ## Logout:
 <p align="center">
-<img src="" alt="Diseño"> 
+<img src="https://github.com/user-attachments/assets/7cc6bae8-4004-4fab-b301-5d02ce397c8b" alt="Diseño"> 
+</p>
+
+## Graficas:
+<p align="center">
+<img src="https://github.com/user-attachments/assets/a4a42a24-8a20-4b46-9f00-9cde113f4f62" alt="Diseño"> 
 </p>
