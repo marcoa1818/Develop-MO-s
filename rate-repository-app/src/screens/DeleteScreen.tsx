@@ -17,7 +17,6 @@ const DeleteScreen = ({ navigation, route }) => {
           text: "Delete",
           style: "destructive",
           onPress: () => {
-            // Navegar de regreso a Home con el ID del miembro eliminado
             navigation.navigate("Home", { deletedMemberId: member.id });
           },
         },

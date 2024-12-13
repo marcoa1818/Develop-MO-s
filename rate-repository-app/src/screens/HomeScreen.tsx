@@ -90,7 +90,9 @@ const HomeScreen = ({ navigation, route }) => {
     <View style={styles.container}>
       {/* Header */}
       <View style={styles.header}>
-        <MaterialIcons name="menu" size={28} color="black" />
+        <TouchableOpacity onPress={() => navigation.navigate("Logout")}>
+          <MaterialIcons name="menu" size={28} color="black" />
+        </TouchableOpacity>
       </View>
 
       {/* Search Bar */}

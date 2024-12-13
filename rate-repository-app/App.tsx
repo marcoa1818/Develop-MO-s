@@ -10,6 +10,7 @@ import CreateScreen from "./src/screens/CreateScreen";
 import MemberDetails from "./src/screens/ReadScreen";
 import UpdateScreen from "./src/screens/EditScreen";
 import DeleteScreen from "./src/screens/DeleteScreen";
+import LogoutScreen from "./src/screens/LogoutScreen";
 
 const Stack = createStackNavigator();
 
@@ -79,6 +80,11 @@ export default function App() {
         <Stack.Screen
           name="Delete"
           component={DeleteScreen}
+          options={{ headerShown: true }}
+        />
+        <Stack.Screen
+          name="Logout"
+          component={LogoutScreen}
           options={{ headerShown: true }}
         />
       </Stack.Navigator>
