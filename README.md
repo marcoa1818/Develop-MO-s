@@ -43,7 +43,7 @@
 
 
 <p align="center">
-  <img src="" alt="Organigrama de equipo">
+  ![organigrama-membresias](https://github.com/user-attachments/assets/3c7ea85b-0fbc-4a8b-9a19-facfd377a9fa)
 </p>
 
 ## Integrantes 
